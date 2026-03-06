@@ -4,6 +4,11 @@
 
 This exercise is meant to make your engineering judgment visible. We want to see how you interpret an ambiguous product prompt, choose scope under time constraints, structure a mobile application, reason about trade-offs, and explain your decisions.
 
+We're going to be evaluating you on the following:
+- clear/sensible code patterns
+- functionality + validation
+- readability
+
 This assignment is designed to take less than 6 hours with AI-assisted code development. A focused, well-executed slice is better than a large build.
 
 ## Assignment
