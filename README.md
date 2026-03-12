@@ -14,7 +14,7 @@ This assignment is designed to take less than 6 hours with AI-assisted code deve
 
 ## Assignment
 
-Build a React Native mobile app for peer-to-peer messaging and calling with an AI component.
+Build a React Native mobile app for peer-to-peer messaging and calling with an AI component. It should include a lightweight backend for peer-to-peer communications.
 
 The product should support a simple communication flow where two users can exchange messages, initiate a call-like interaction, and use an AI capability within the conversation.
 
@@ -28,14 +28,15 @@ You may use AI tools during development.
 
 ### Setup
 
-- Use React Native
+- Frontend: Use React Native
+- Backend: Whatever language/setup you're most comfortable with
 - Run locally with clear setup instructions
 - Include a README.md (entirely human written)
 
 ### Functionality
 
-- Support 1:1 messaging
-- Include a call-like interaction between two users
+- Support functional 1:1 messaging
+- Include a functional call-like interaction between two users
 - Include one meaningful AI feature
 
 ### Code Quality
@@ -62,7 +63,7 @@ Should include:
 
 - Setup instructions
 - Tradeoffs
-- Stubs (what's known incomplete)
+- Stubs / Unhandled Edge Cases (what's known incomplete)
 - Key decisions
 
 Should not include:
