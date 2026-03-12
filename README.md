@@ -5,6 +5,7 @@
 This exercise is meant to make your engineering judgment visible. We want to see how you interpret an ambiguous product prompt, choose scope under time constraints, structure a mobile application, reason about trade-offs, and explain your decisions.
 
 We're going to be evaluating you on the following:
+
 - clear/sensible code patterns
 - functionality + validation
 - readability
@@ -17,22 +18,29 @@ Build a React Native mobile app for peer-to-peer messaging and calling with an A
 
 The product should support a simple communication flow where two users can exchange messages, initiate a call-like interaction, and use an AI capability within the conversation.
 
+**Peer-to-peer communication must work.** When we run your app locally, we need to be able to open two instances and have them talk to each other. This is non-negotiable.
+
 The exact product shape is intentionally unspecified. Choose a narrow interpretation and implement it well.
 
 You may use AI tools during development.
 
 ## Requirements
 
-Your submission must:
+### Setup
 
 - Use React Native
 - Run locally with clear setup instructions
+- Include a README.md (entirely human written)
+
+### Functionality
+
 - Support 1:1 messaging
 - Include a call-like interaction between two users
 - Include one meaningful AI feature
-- Include a README.md
 
-The README must be entirely human written.
+### Code Quality
+
+- Demonstrate strong architectural patterns: clear separation of concerns, modular structure, and maintainable code organization
 
 ## AI
 
