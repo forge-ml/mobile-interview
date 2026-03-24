@@ -86,3 +86,12 @@ Your submission should include:
 - the React Native project
 - a README.md (entirely human written)
 - setup instructions in the README
+- a short video (I recommend Loom) of you walking through your repository in your preferred IDE
+
+## The Video
+
+- The video (<5m) should be you sharing your code and include the following:
+  - an architectural overview
+  - a walk through of your data models
+  - a brief explanation of each part of your codebase/how it works / why it's necessary
+  - as you walk through, emphasizing what you would change in a production codebase shared with a team
